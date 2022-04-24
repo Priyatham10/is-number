@@ -1,1 +1,0 @@
-from .in_number import is_number
