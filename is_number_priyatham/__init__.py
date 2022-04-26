@@ -1,4 +1,7 @@
+"""Utility functions to calculate if an object is a number."""
 from .is_number import is_number
-from . import _version
+from .is_number import is_float
+from ._version import get_versions
 
-__version__ = _version.get_versions()["version"]
+__version__ = get_versions()["version"]
+del get_versions
