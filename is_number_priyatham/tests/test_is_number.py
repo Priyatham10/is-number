@@ -14,6 +14,7 @@ def test_is_not_number():
     assert not is_number(datetime.now())
     assert not is_number(lambda foo: foo)
 
+
 def test_is_float():
     assert is_float(1.1)
 
