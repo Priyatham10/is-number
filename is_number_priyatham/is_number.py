@@ -44,6 +44,7 @@ def is_number(in_value):
     except (ValueError, TypeError):
         return False
 
+
 def is_float(in_value):
     """Checks if a value is a valid float.
 
