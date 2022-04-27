@@ -7,6 +7,18 @@ A Python library to determine if something is a number.
    :target: https://pypi.org/project/is-number-priyatham/
    :alt: PyPI
 
+.. image:: https://github.com/Priyatham10/is-number/actions/workflows/ci.yaml/badge.svg
+   :target: https://github.com/Priyatham10/is-number/actions/workflows/ci.yaml
+   :alt: GitHub Actions - CI
+
+.. image:: https://github.com/Priyatham10/is-number/actions/workflows/pre-commit.yaml/badge.svg
+   :target: https://github.com/Priyatham10/is-number/actions/workflows/pre-commit.yaml
+   :alt: GitHub Actions - pre-commit
+
+.. image:: https://img.shields.io/codecov/c/github/Priyatham10/is-number
+   :target: https://app.codecov.io/gh/Priyatham10/is-number
+   :alt: Codecov
+
 Installation
 ------------
 
