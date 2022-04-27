@@ -2,4 +2,4 @@
 omit =
     setup.py
     versioneer.py
-    is_number/_version.py
+    is_number_priyatham/_version.py
